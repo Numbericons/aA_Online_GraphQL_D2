@@ -23,14 +23,6 @@ const God = (props) => {
                             </div>
                         );
 
-                        //     data.abodes.map(({ id, name, coordinates }) => (
-                        //       <li key={id}>
-                        //         <Link to={`/abodes/${id}`}>
-                        //           <h4>{name}</h4>
-                        //         </Link>
-                        //         <p className="description">Coordinates: {coordinates}</p>
-                        //       </li>
-                        //     ));
                     }}
                 </Query>
             </ul>
